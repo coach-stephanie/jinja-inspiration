@@ -1,1 +1,1 @@
-# jinja-tiktok-profile
+# jinja-inspiration
